@@ -1,4 +1,4 @@
-const CACHE_NAME = "vocabolario-v13";
+const CACHE_NAME = "lexico-v14";
 const APP_SHELL = ["./", "./index.html", "./app.js", "./manifest.json", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", (event) => {

@@ -1,6 +1,6 @@
 {
-  "name": "Vocabolario",
-  "short_name": "Vocabolario",
+  "name": "Lexico",
+  "short_name": "Lexico",
   "description": "La tua app personale per imparare vocaboli in inglese.",
   "start_url": "./index.html",
   "scope": "./",
